@@ -4,7 +4,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
 
-## Submission Instructions
+## Submission Instructions.
 
 ### Overview
 The idea of the project is to promote bike commuting

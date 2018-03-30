@@ -17,8 +17,7 @@ Also it will show bike friendly places as well as news about upcoming events.
 2. Build routes using google maps API and display buses schedule (using existing data)
 3. Store saved routes (Work, home, school, store ..)
 4. Display data from the saved places from google maps (Place to go, Saved places))
-5. News feed (Eventbrite, meetup)
-6. Show statiscics (Endomodo, gps data)
+
 ### Technologies
 Html5/Sass/Javascript - Front-end
 C#/SQL - Back-end
@@ -26,3 +25,8 @@ Azure cloud - Storage, hosting
 Github
 ### What I'll Have to Learn
 Javascript, Sass, Pulling data from API, Hosting with Azure.
+
+### Future enhancement
+1. News feed (Eventbrite, meetup)
+2. Show statiscics (Endomodo, gps data)
+3. Going to cloud (Windows Azure)

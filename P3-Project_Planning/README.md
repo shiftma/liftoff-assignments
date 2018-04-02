@@ -9,7 +9,10 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* [GitHub](https://github.com/shiftma/Twisted-wheel/blob/master/Page_1.jpg)
+* [GitHub](https://github.com/shiftma/Twisted-wheel/blob/master/Page_2.jpg)
+* [GitHub](https://github.com/shiftma/Twisted-wheel/blob/master/Page_3.jpg)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://www.pivotaltracker.com/n/projects/2157760

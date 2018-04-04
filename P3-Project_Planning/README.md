@@ -15,4 +15,4 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
-![Pivot tracker](https://www.pivotaltracker.com/n/projects/2157760)
+[Pivot tracker](https://www.pivotaltracker.com/n/projects/2157760)
